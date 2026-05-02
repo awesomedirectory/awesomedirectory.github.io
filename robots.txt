@@ -2,3 +2,8 @@ User-agent: *
 Allow: /
 
 Sitemap: https://awesomedirectory.github.io/sitemap.xml
+Sitemap: https://awesomedirectory.github.io/awesome-founder-stack/sitemap.xml
+Sitemap: https://awesomedirectory.github.io/awesome-genograms/sitemap.xml
+Sitemap: https://awesomedirectory.github.io/Awesome-VC-Tech-Stack/sitemap.xml
+Sitemap: https://awesomedirectory.github.io/Awesome-Healthcare-Recruitment/sitemap.xml
+Sitemap: https://awesomedirectory.github.io/awesome-award-travel/sitemap.xml
