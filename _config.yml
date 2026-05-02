@@ -1,4 +1,25 @@
 title: Awesome Directory
-description: A collection of curated awesome lists for founders, VCs, recruiters, therapists, and travelers.
+description: Curated awesome lists of tools for startup founders, VC firms, healthcare recruiters, family therapists, and award-travel hackers.
+url: "https://awesomedirectory.github.io"
+baseurl: ""
 theme: jekyll-theme-cayman
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+twitter:
+  username: awesomedirectory
+  card: summary
+social:
+  name: Awesome Directory
+  links:
+    - https://github.com/awesomedirectory
+author:
+  name: Awesome Directory
+  url: https://github.com/awesomedirectory
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/og.png
+      lang: en_US
 show_downloads: false
