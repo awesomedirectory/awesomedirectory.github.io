@@ -1,15 +1,15 @@
 ---
 layout: default
 title: "Awesome Directory — Curated GitHub Awesome Lists"
-description: "Curated awesome lists of tools for startup founders, VC firms, healthcare recruiters, family therapists, and award-travel hackers — 94+ tools across 5 lists."
+description: "Curated awesome lists for B2B sales, startup founders, VC firms, healthcare recruiters, therapists, PR teams, and award-travel hackers — 190+ tools across 9 lists."
 permalink: /
 ---
 
 # Awesome Lists Directory
 
-> 94+ curated tools across 5 niche awesome lists. Open submissions, MIT-licensed, kept current.
+> 190+ curated tools across 9 niche awesome lists. Open submissions, MIT-licensed, kept current.
 
-The Awesome Directory is a small collection of focused [awesome lists](https://github.com/sindresorhus/awesome) maintained on GitHub. Each list covers a single niche — startup founder tooling, the venture capital tech stack, healthcare recruitment platforms, family-systems software for therapists, and award-travel tools — and links to the best tools, libraries, and services in that space.
+The Awesome Directory is a focused collection of [awesome lists](https://github.com/sindresorhus/awesome) maintained on GitHub. Each list covers a single niche — B2B prospecting, startup founder tooling, the venture capital tech stack, healthcare recruitment, family-systems software for therapists, invoicing, PR and media outreach, tech sales, and award travel — and links to the best tools, libraries, and services in that space.
 
 Unlike sprawling general-purpose awesome lists, ours are intentionally narrow: every entry should be useful to someone *actually doing the job*. We prefer real, active products over historical artifacts. If a tool dies or pivots, we cut it.
 
@@ -45,21 +45,47 @@ _30 tools curated._ Tools for finding award flights, tracking points and miles, 
 
 **Featured:** [AwardClaw](https://awardclaw.com).
 
+### [Awesome B2B Prospecting](https://awesomedirectory.github.io/awesome-b2b-prospecting/)
+
+_27 tools curated._ Contact databases, enrichment tools, sequencers, and deliverability platforms for B2B sales and growth teams.
+
+**Featured:** [MessageCEO](https://messageceo.com).
+
+### [Awesome Invoicing](https://awesomedirectory.github.io/awesome-invoicing/)
+
+_25 tools curated._ Invoicing software, AR automation, expense trackers, and payment platforms for freelancers and small businesses.
+
+**Featured:** [TaxInvoicer](https://taxinvoicer.com).
+
+### [Awesome PR Tools](https://awesomedirectory.github.io/awesome-pr-tools/)
+
+_25 tools curated._ PR software, journalist databases, media monitoring tools, and outreach platforms for founders and comms teams.
+
+**Featured:** [JournalistDB](https://journalistdb.com).
+
+### [Awesome Tech Sales](https://awesomedirectory.github.io/awesome-tech-sales/)
+
+_19 tools curated._ Tools, contact databases, and resources for selling SaaS and infrastructure to engineering, IT, and tech-leadership buyers.
+
+**Featured:** [CTORank](https://ctorank.com).
+
 ---
 
 ## Submit a Tool
 
-Built or found a tool that belongs on one of these lists? We accept submissions in two ways.
+Built or found a tool that belongs on one of these lists?
 
 ### Option 1 — Open an Issue (easiest)
-
-Use the "Tool Submission" template on the relevant list:
 
 - [Submit to Awesome Founder Stack](https://github.com/awesomedirectory/awesome-founder-stack/issues/new?template=submit-tool.md)
 - [Submit to Awesome Genograms](https://github.com/awesomedirectory/awesome-genograms/issues/new?template=submit-tool.md)
 - [Submit to Awesome VC Tech Stack](https://github.com/awesomedirectory/Awesome-VC-Tech-Stack/issues/new?template=submit-tool.md)
 - [Submit to Awesome Healthcare Recruitment](https://github.com/awesomedirectory/Awesome-Healthcare-Recruitment/issues/new?template=submit-tool.md)
 - [Submit to Awesome Award Travel](https://github.com/awesomedirectory/awesome-award-travel/issues/new?template=submit-tool.md)
+- [Submit to Awesome B2B Prospecting](https://github.com/awesomedirectory/awesome-b2b-prospecting/issues/new?template=submit-tool.md)
+- [Submit to Awesome Invoicing](https://github.com/awesomedirectory/awesome-invoicing/issues/new?template=submit-tool.md)
+- [Submit to Awesome PR Tools](https://github.com/awesomedirectory/awesome-pr-tools/issues/new?template=submit-tool.md)
+- [Submit to Awesome Tech Sales](https://github.com/awesomedirectory/awesome-tech-sales/issues/new?template=submit-tool.md)
 
 ### Option 2 — Open a Pull Request
 
@@ -99,7 +125,7 @@ Awesome Directory is an independent project. Each list is a standalone GitHub re
   "@type": "WebSite",
   "name": "Awesome Directory",
   "url": "https://awesomedirectory.github.io",
-  "description": "Curated awesome lists of tools for founders, VC firms, healthcare recruiters, therapists, and travelers.",
+  "description": "Curated awesome lists (9) of tools for B2B sales, founders, VCs, healthcare recruiters, therapists, PR teams, and travelers.",
   "publisher": {
     "@type": "Organization",
     "name": "Awesome Directory",
@@ -114,7 +140,7 @@ Awesome Directory is an independent project. Each list is a standalone GitHub re
   "@type": "ItemList",
   "name": "Awesome Lists",
   "itemListOrder": "Unordered",
-  "numberOfItems": 5,
+  "numberOfItems": 9,
   "itemListElement": [
     {
       "@type": "ListItem",
@@ -150,6 +176,34 @@ Awesome Directory is an independent project. Each list is a standalone GitHub re
       "url": "https://awesomedirectory.github.io/awesome-award-travel/",
       "name": "Awesome Award Travel",
       "description": "Tools for finding award flights, tracking points and miles, and maximizing credit card rewards."
+    },
+    {
+      "@type": "ListItem",
+      "position": 6,
+      "url": "https://awesomedirectory.github.io/awesome-b2b-prospecting/",
+      "name": "Awesome B2B Prospecting",
+      "description": "Contact databases, enrichment tools, sequencers, and deliverability platforms for B2B sales and growth teams."
+    },
+    {
+      "@type": "ListItem",
+      "position": 7,
+      "url": "https://awesomedirectory.github.io/awesome-invoicing/",
+      "name": "Awesome Invoicing",
+      "description": "Invoicing software, AR automation, expense trackers, and payment platforms for freelancers and small businesses."
+    },
+    {
+      "@type": "ListItem",
+      "position": 8,
+      "url": "https://awesomedirectory.github.io/awesome-pr-tools/",
+      "name": "Awesome PR Tools",
+      "description": "PR software, journalist databases, media monitoring tools, and outreach platforms for founders and comms teams."
+    },
+    {
+      "@type": "ListItem",
+      "position": 9,
+      "url": "https://awesomedirectory.github.io/awesome-tech-sales/",
+      "name": "Awesome Tech Sales",
+      "description": "Tools, contact databases, and resources for selling SaaS and infrastructure to engineering, IT, and tech-leadership buyers."
     }
   ]
 }
