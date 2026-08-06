@@ -1,15 +1,15 @@
 ---
 layout: default
 title: "Awesome Directory — Curated GitHub Awesome Lists"
-description: "Curated awesome lists for B2B sales, startup founders, VC firms, healthcare recruiters, therapists in private practice, PR teams, and award-travel hackers — 230+ tools across 10 lists, plus 4 mental-health directories."
+description: "Curated awesome lists for B2B sales, startup founders, VC firms, healthcare recruiters, therapists in private practice, PR teams, and award-travel hackers — 290+ tools across 12 lists, plus 4 mental-health directories."
 permalink: /
 ---
 
 # Awesome Lists Directory
 
-> 230+ curated tools across 10 niche awesome lists, plus 4 mental-health directories. Open submissions, MIT-licensed, kept current.
+> 290+ curated tools across 12 niche awesome lists, plus 4 mental-health directories. Open submissions, MIT-licensed, kept current.
 
-The Awesome Directory is a focused collection of [awesome lists](https://github.com/sindresorhus/awesome) maintained on GitHub. Each list covers a single niche — B2B prospecting, startup founder tooling, the venture capital tech stack, healthcare recruitment, family-systems software for therapists, private-practice operations, invoicing, PR and media outreach, tech sales, and award travel — and links to the best tools, libraries, and services in that space.
+The Awesome Directory is a focused collection of [awesome lists](https://github.com/sindresorhus/awesome) maintained on GitHub. Each list covers a single niche — B2B prospecting, startup founder tooling, the venture capital tech stack, healthcare recruitment, family-systems software for therapists, private-practice operations, transcription, wedding planning, invoicing, PR and media outreach, tech sales, and award travel — and links to the best tools, libraries, and services in that space.
 
 Unlike sprawling general-purpose awesome lists, ours are intentionally narrow: every entry should be useful to someone *actually doing the job*. We prefer real, active products over historical artifacts. If a tool dies or pivots, we cut it.
 
@@ -32,6 +32,18 @@ _16 tools curated._ Genogram builders, family-tree visualization libraries, and 
 _40 tools curated._ Practice management, billing, scheduling, documentation, and marketing tools for therapists, counselors, and small clinical practices.
 
 **Featured:** [PracticeWoven](https://practicewoven.com).
+
+### [Awesome Transcription](https://awesomedirectory.github.io/awesome-transcription/)
+
+_33 tools curated._ Speech-to-text tools — desktop apps, APIs, open-source models, and services for turning audio and video into usable text.
+
+**Featured:** [TranscribeAnything](https://transcribeanything.app).
+
+### [Awesome Wedding Planning](https://awesomedirectory.github.io/awesome-wedding-planning/)
+
+_29 tools curated._ Seating charts and floor plans, RSVP and guest management, registries, budgeting, and tools for professional wedding planners.
+
+**Featured:** [Wedding Charts](https://weddingcharts.com).
 
 ### [Awesome VC Tech Stack](https://awesomedirectory.github.io/Awesome-VC-Tech-Stack/)
 
@@ -115,6 +127,8 @@ Built or found a tool that belongs on one of these lists?
 - [Submit to Awesome PR Tools](https://github.com/awesomedirectory/awesome-pr-tools/issues/new?template=submit-tool.md)
 - [Submit to Awesome Tech Sales](https://github.com/awesomedirectory/awesome-tech-sales/issues/new?template=submit-tool.md)
 - [Submit to Awesome Private Practice](https://github.com/awesomedirectory/awesome-private-practice/issues/new?template=submit-tool.md)
+- [Submit to Awesome Transcription](https://github.com/awesomedirectory/awesome-transcription/issues/new?template=submit-tool.md)
+- [Submit to Awesome Wedding Planning](https://github.com/awesomedirectory/awesome-wedding-planning/issues/new?template=submit-tool.md)
 
 ### Option 2 — Open a Pull Request
 
@@ -154,7 +168,7 @@ Awesome Directory is an independent project. Each list is a standalone GitHub re
   "@type": "WebSite",
   "name": "Awesome Directory",
   "url": "https://awesomedirectory.github.io",
-  "description": "Curated awesome lists (10) of tools for B2B sales, founders, VCs, healthcare recruiters, therapists in private practice, PR teams, and travelers.",
+  "description": "Curated awesome lists (12) of tools for B2B sales, founders, VCs, healthcare recruiters, therapists in private practice, PR teams, and travelers.",
   "publisher": {
     "@type": "Organization",
     "name": "Awesome Directory",
@@ -169,7 +183,7 @@ Awesome Directory is an independent project. Each list is a standalone GitHub re
   "@type": "ItemList",
   "name": "Awesome Lists",
   "itemListOrder": "Unordered",
-  "numberOfItems": 10,
+  "numberOfItems": 12,
   "itemListElement": [
     {
       "@type": "ListItem",
@@ -240,6 +254,20 @@ Awesome Directory is an independent project. Each list is a standalone GitHub re
       "url": "https://awesomedirectory.github.io/awesome-private-practice/",
       "name": "Awesome Private Practice",
       "description": "Practice management, billing, scheduling, documentation, and marketing tools for therapists, counselors, and small clinical practices."
+    },
+    {
+      "@type": "ListItem",
+      "position": 11,
+      "url": "https://awesomedirectory.github.io/awesome-transcription/",
+      "name": "Awesome Transcription",
+      "description": "Speech-to-text tools \u2014 desktop apps, APIs, open-source models, and services for turning audio and video into usable text."
+    },
+    {
+      "@type": "ListItem",
+      "position": 12,
+      "url": "https://awesomedirectory.github.io/awesome-wedding-planning/",
+      "name": "Awesome Wedding Planning",
+      "description": "Seating charts and floor plans, RSVP and guest management, registries, budgeting, and tools for professional wedding planners."
     }
   ]
 }
