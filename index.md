@@ -1,15 +1,15 @@
 ---
 layout: default
 title: "Awesome Directory — Curated GitHub Awesome Lists"
-description: "Curated awesome lists for B2B sales, startup founders, VC firms, healthcare recruiters, therapists, PR teams, and award-travel hackers — 190+ tools across 9 lists."
+description: "Curated awesome lists for B2B sales, startup founders, VC firms, healthcare recruiters, therapists in private practice, PR teams, and award-travel hackers — 230+ tools across 10 lists, plus 4 mental-health directories."
 permalink: /
 ---
 
 # Awesome Lists Directory
 
-> 190+ curated tools across 9 niche awesome lists. Open submissions, MIT-licensed, kept current.
+> 230+ curated tools across 10 niche awesome lists, plus 4 mental-health directories. Open submissions, MIT-licensed, kept current.
 
-The Awesome Directory is a focused collection of [awesome lists](https://github.com/sindresorhus/awesome) maintained on GitHub. Each list covers a single niche — B2B prospecting, startup founder tooling, the venture capital tech stack, healthcare recruitment, family-systems software for therapists, invoicing, PR and media outreach, tech sales, and award travel — and links to the best tools, libraries, and services in that space.
+The Awesome Directory is a focused collection of [awesome lists](https://github.com/sindresorhus/awesome) maintained on GitHub. Each list covers a single niche — B2B prospecting, startup founder tooling, the venture capital tech stack, healthcare recruitment, family-systems software for therapists, private-practice operations, invoicing, PR and media outreach, tech sales, and award travel — and links to the best tools, libraries, and services in that space.
 
 Unlike sprawling general-purpose awesome lists, ours are intentionally narrow: every entry should be useful to someone *actually doing the job*. We prefer real, active products over historical artifacts. If a tool dies or pivots, we cut it.
 
@@ -26,6 +26,12 @@ _12 tools curated._ Tools, services, and SaaS for startup founders — incorpora
 _16 tools curated._ Genogram builders, family-tree visualization libraries, and genealogy software for therapists, social workers, and developers.
 
 **Featured:** [GenogramAI](https://genogramai.com).
+
+### [Awesome Private Practice](https://awesomedirectory.github.io/awesome-private-practice/)
+
+_40 tools curated._ Practice management, billing, scheduling, documentation, and marketing tools for therapists, counselors, and small clinical practices.
+
+**Featured:** [PracticeWoven](https://practicewoven.com).
 
 ### [Awesome VC Tech Stack](https://awesomedirectory.github.io/Awesome-VC-Tech-Stack/)
 
@@ -71,6 +77,28 @@ _19 tools curated._ Tools, contact databases, and resources for selling SaaS and
 
 ---
 
+## Mental Health Directories
+
+Alongside the awesome lists, we maintain four standalone directories covering therapy tooling in more depth.
+
+### [Mental Health Apps Directory](https://awesomedirectory.github.io/mental-health-apps-directory/)
+
+_13 apps reviewed._ Apps and platforms for mental health support, therapy, and self-guided care.
+
+### [Telehealth Therapy Tools](https://awesomedirectory.github.io/telehealth-therapy-tools/)
+
+_12 tools reviewed._ Video platforms, bilateral stimulation, scheduling, and EHR software for delivering therapy remotely.
+
+### [EMDR Therapy Resources](https://awesomedirectory.github.io/emdr-therapy-resources/)
+
+_7 resources._ EMDR protocol reference, the eight phases, training bodies, and bilateral stimulation modalities.
+
+### [EMDR Bilateral Stimulation Tools](https://awesomedirectory.github.io/emdr-bilateral-stimulation-tools/)
+
+Tappers, apps, and devices for delivering bilateral stimulation in EMDR sessions.
+
+---
+
 ## Submit a Tool
 
 Built or found a tool that belongs on one of these lists?
@@ -86,6 +114,7 @@ Built or found a tool that belongs on one of these lists?
 - [Submit to Awesome Invoicing](https://github.com/awesomedirectory/awesome-invoicing/issues/new?template=submit-tool.md)
 - [Submit to Awesome PR Tools](https://github.com/awesomedirectory/awesome-pr-tools/issues/new?template=submit-tool.md)
 - [Submit to Awesome Tech Sales](https://github.com/awesomedirectory/awesome-tech-sales/issues/new?template=submit-tool.md)
+- [Submit to Awesome Private Practice](https://github.com/awesomedirectory/awesome-private-practice/issues/new?template=submit-tool.md)
 
 ### Option 2 — Open a Pull Request
 
@@ -125,7 +154,7 @@ Awesome Directory is an independent project. Each list is a standalone GitHub re
   "@type": "WebSite",
   "name": "Awesome Directory",
   "url": "https://awesomedirectory.github.io",
-  "description": "Curated awesome lists (9) of tools for B2B sales, founders, VCs, healthcare recruiters, therapists, PR teams, and travelers.",
+  "description": "Curated awesome lists (10) of tools for B2B sales, founders, VCs, healthcare recruiters, therapists in private practice, PR teams, and travelers.",
   "publisher": {
     "@type": "Organization",
     "name": "Awesome Directory",
@@ -140,7 +169,7 @@ Awesome Directory is an independent project. Each list is a standalone GitHub re
   "@type": "ItemList",
   "name": "Awesome Lists",
   "itemListOrder": "Unordered",
-  "numberOfItems": 9,
+  "numberOfItems": 10,
   "itemListElement": [
     {
       "@type": "ListItem",
@@ -204,6 +233,13 @@ Awesome Directory is an independent project. Each list is a standalone GitHub re
       "url": "https://awesomedirectory.github.io/awesome-tech-sales/",
       "name": "Awesome Tech Sales",
       "description": "Tools, contact databases, and resources for selling SaaS and infrastructure to engineering, IT, and tech-leadership buyers."
+    },
+    {
+      "@type": "ListItem",
+      "position": 10,
+      "url": "https://awesomedirectory.github.io/awesome-private-practice/",
+      "name": "Awesome Private Practice",
+      "description": "Practice management, billing, scheduling, documentation, and marketing tools for therapists, counselors, and small clinical practices."
     }
   ]
 }

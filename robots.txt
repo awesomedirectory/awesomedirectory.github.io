@@ -11,3 +11,4 @@ Sitemap: https://awesomedirectory.github.io/awesome-b2b-prospecting/sitemap.xml
 Sitemap: https://awesomedirectory.github.io/awesome-invoicing/sitemap.xml
 Sitemap: https://awesomedirectory.github.io/awesome-pr-tools/sitemap.xml
 Sitemap: https://awesomedirectory.github.io/awesome-tech-sales/sitemap.xml
+Sitemap: https://awesomedirectory.github.io/awesome-private-practice/sitemap.xml
