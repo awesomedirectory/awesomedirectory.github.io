@@ -23,7 +23,7 @@ _12 tools curated._ Tools, services, and SaaS for startup founders — incorpora
 
 ### [Awesome Startup Jobs](https://awesomedirectory.github.io/awesome-startup-jobs/)
 
-_17 tools curated._ Job boards, funding trackers, salary data, and research tools for finding and vetting jobs at venture-backed startups.
+_20 tools curated._ Job boards, funding trackers, salary data, and research tools for finding and vetting jobs at venture-backed startups.
 
 ### [Awesome Genograms](https://awesomedirectory.github.io/awesome-genograms/)
 
