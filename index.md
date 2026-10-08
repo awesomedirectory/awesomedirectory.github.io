@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Awesome Directory — Curated GitHub Awesome Lists"
-description: "Curated awesome lists for B2B sales, startup founders, VC firms, healthcare recruiters, therapists in private practice, PR teams, and award-travel hackers — 290+ tools across 12 lists, plus 4 mental-health directories."
+description: "Curated awesome lists for B2B sales, startup founders, VC firms, healthcare recruiters, therapists in private practice, PR teams, and award-travel hackers — 290+ tools across 13 lists, plus 4 mental-health directories."
 permalink: /
 ---
 
@@ -9,7 +9,7 @@ permalink: /
 
 > 290+ curated tools across 12 niche awesome lists, plus 4 mental-health directories. Open submissions, MIT-licensed, kept current.
 
-The Awesome Directory is a focused collection of [awesome lists](https://github.com/sindresorhus/awesome) maintained on GitHub. Each list covers a single niche — B2B prospecting, startup founder tooling, the venture capital tech stack, healthcare recruitment, family-systems software for therapists, private-practice operations, transcription, wedding planning, invoicing, PR and media outreach, tech sales, and award travel — and links to the best tools, libraries, and services in that space.
+The Awesome Directory is a focused collection of [awesome lists](https://github.com/sindresorhus/awesome) maintained on GitHub. Each list covers a single niche — B2B prospecting, startup founder tooling, startup job search, the venture capital tech stack, healthcare recruitment, family-systems software for therapists, private-practice operations, transcription, wedding planning, invoicing, PR and media outreach, tech sales, and award travel — and links to the best tools, libraries, and services in that space.
 
 Unlike sprawling general-purpose awesome lists, ours are intentionally narrow: every entry should be useful to someone *actually doing the job*. We prefer real, active products over historical artifacts. If a tool dies or pivots, we cut it.
 
@@ -20,6 +20,10 @@ Unlike sprawling general-purpose awesome lists, ours are intentionally narrow: e
 ### [Awesome Founder Stack](https://awesomedirectory.github.io/awesome-founder-stack/)
 
 _12 tools curated._ Tools, services, and SaaS for startup founders — incorporation, finance, hiring, and growth.
+
+### [Awesome Startup Jobs](https://awesomedirectory.github.io/awesome-startup-jobs/)
+
+_17 tools curated._ Job boards, funding trackers, salary data, and research tools for finding and vetting jobs at venture-backed startups.
 
 ### [Awesome Genograms](https://awesomedirectory.github.io/awesome-genograms/)
 
@@ -118,6 +122,7 @@ Built or found a tool that belongs on one of these lists?
 ### Option 1 — Open an Issue (easiest)
 
 - [Submit to Awesome Founder Stack](https://github.com/awesomedirectory/awesome-founder-stack/issues/new?template=submit-tool.md)
+- [Submit to Awesome Startup Jobs](https://github.com/awesomedirectory/awesome-startup-jobs/issues/new?template=submit-tool.md)
 - [Submit to Awesome Genograms](https://github.com/awesomedirectory/awesome-genograms/issues/new?template=submit-tool.md)
 - [Submit to Awesome VC Tech Stack](https://github.com/awesomedirectory/Awesome-VC-Tech-Stack/issues/new?template=submit-tool.md)
 - [Submit to Awesome Healthcare Recruitment](https://github.com/awesomedirectory/Awesome-Healthcare-Recruitment/issues/new?template=submit-tool.md)
@@ -168,7 +173,7 @@ Awesome Directory is an independent project. Each list is a standalone GitHub re
   "@type": "WebSite",
   "name": "Awesome Directory",
   "url": "https://awesomedirectory.github.io",
-  "description": "Curated awesome lists (12) of tools for B2B sales, founders, VCs, healthcare recruiters, therapists in private practice, PR teams, and travelers.",
+  "description": "Curated awesome lists (13) of tools for B2B sales, founders, VCs, healthcare recruiters, therapists in private practice, PR teams, and travelers.",
   "publisher": {
     "@type": "Organization",
     "name": "Awesome Directory",
@@ -183,7 +188,7 @@ Awesome Directory is an independent project. Each list is a standalone GitHub re
   "@type": "ItemList",
   "name": "Awesome Lists",
   "itemListOrder": "Unordered",
-  "numberOfItems": 12,
+  "numberOfItems": 13,
   "itemListElement": [
     {
       "@type": "ListItem",
@@ -268,6 +273,13 @@ Awesome Directory is an independent project. Each list is a standalone GitHub re
       "url": "https://awesomedirectory.github.io/awesome-wedding-planning/",
       "name": "Awesome Wedding Planning",
       "description": "Seating charts and floor plans, RSVP and guest management, registries, budgeting, and tools for professional wedding planners."
+    },
+    {
+      "@type": "ListItem",
+      "position": 13,
+      "url": "https://awesomedirectory.github.io/awesome-startup-jobs/",
+      "name": "Awesome Startup Jobs",
+      "description": "Job boards, funding trackers, salary data, and research tools for finding and vetting jobs at venture-backed startups."
     }
   ]
 }

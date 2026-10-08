@@ -5,6 +5,7 @@ Source for **[awesomedirectory.github.io](https://awesomedirectory.github.io/)**
 ## Lists
 
 - [Awesome Founder Stack](https://github.com/awesomedirectory/awesome-founder-stack)
+- [Awesome Startup Jobs](https://github.com/awesomedirectory/awesome-startup-jobs)
 - [Awesome Genograms](https://github.com/awesomedirectory/awesome-genograms)
 - [Awesome VC Tech Stack](https://github.com/awesomedirectory/Awesome-VC-Tech-Stack)
 - [Awesome Healthcare Recruitment](https://github.com/awesomedirectory/Awesome-Healthcare-Recruitment)
