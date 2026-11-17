@@ -49,6 +49,12 @@ _29 tools curated._ Seating charts and floor plans, RSVP and guest management, r
 
 **Featured:** [Wedding Charts](https://weddingcharts.com).
 
+### [Awesome Mini Racks](https://awesomedirectory.github.io/awesome-mini-racks/)
+
+_21 entries curated._ 10-inch mini racks for homelabs: ready-made frames, 3D printable rack systems, planning tools, and communities.
+
+**Featured:** [PrintableRacks](https://printableracks.com).
+
 ### [Awesome VC Tech Stack](https://awesomedirectory.github.io/Awesome-VC-Tech-Stack/)
 
 _18 tools curated._ The software stack used by modern venture capital firms — sourcing, diligence, portfolio support, and fund admin.
@@ -134,6 +140,7 @@ Built or found a tool that belongs on one of these lists?
 - [Submit to Awesome Private Practice](https://github.com/awesomedirectory/awesome-private-practice/issues/new?template=submit-tool.md)
 - [Submit to Awesome Transcription](https://github.com/awesomedirectory/awesome-transcription/issues/new?template=submit-tool.md)
 - [Submit to Awesome Wedding Planning](https://github.com/awesomedirectory/awesome-wedding-planning/issues/new?template=submit-tool.md)
+- [Submit to Awesome Mini Racks](https://github.com/awesomedirectory/awesome-mini-racks/issues/new)
 
 ### Option 2 — Open a Pull Request
 
