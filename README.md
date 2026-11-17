@@ -10,6 +10,7 @@ Source for **[awesomedirectory.github.io](https://awesomedirectory.github.io/)**
 - [Awesome VC Tech Stack](https://github.com/awesomedirectory/Awesome-VC-Tech-Stack)
 - [Awesome Healthcare Recruitment](https://github.com/awesomedirectory/Awesome-Healthcare-Recruitment)
 - [Awesome Award Travel](https://github.com/awesomedirectory/awesome-award-travel)
+- [Awesome Mini Racks](https://github.com/awesomedirectory/awesome-mini-racks)
 
 ## Submissions
 
