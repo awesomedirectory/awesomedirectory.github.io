@@ -9,7 +9,7 @@ permalink: /
 
 > 290+ curated tools across 12 niche awesome lists, plus 4 mental-health directories. Open submissions, MIT-licensed, kept current.
 
-The Awesome Directory is a focused collection of [awesome lists](https://github.com/sindresorhus/awesome) maintained on GitHub. Each list covers a single niche — B2B prospecting, startup founder tooling, startup job search, the venture capital tech stack, healthcare recruitment, family-systems software for therapists, private-practice operations, transcription, wedding planning, invoicing, PR and media outreach, tech sales, and award travel — and links to the best tools, libraries, and services in that space.
+The Awesome Directory is a focused collection of [awesome lists](https://github.com/sindresorhus/awesome) maintained on GitHub. Each list covers a single niche — B2B prospecting, startup founder tooling, startup job search, the venture capital tech stack, healthcare recruitment, family-systems software for therapists, private-practice operations, transcription, wedding planning, gift guides, invoicing, PR and media outreach, tech sales, and award travel — and links to the best tools, libraries, and services in that space.
 
 Unlike sprawling general-purpose awesome lists, ours are intentionally narrow: every entry should be useful to someone *actually doing the job*. We prefer real, active products over historical artifacts. If a tool dies or pivots, we cut it.
 
@@ -54,6 +54,12 @@ _29 tools curated._ Seating charts and floor plans, RSVP and guest management, r
 _21 entries curated._ 10-inch mini racks for homelabs: ready-made frames, 3D printable rack systems, planning tools, and communities.
 
 **Featured:** [PrintableRacks](https://printableracks.com).
+
+### [Awesome Gift Guides](https://awesomedirectory.github.io/awesome-gift-guides/)
+
+_40 entries curated._ Gift guides, gift finders, wishlist and registry tools, group gifting, gift cards and experiences, and curated gift shops.
+
+**Featured:** [RibbonWorthy](https://ribbonworthy.com).
 
 ### [Awesome VC Tech Stack](https://awesomedirectory.github.io/Awesome-VC-Tech-Stack/)
 
@@ -141,6 +147,7 @@ Built or found a tool that belongs on one of these lists?
 - [Submit to Awesome Transcription](https://github.com/awesomedirectory/awesome-transcription/issues/new?template=submit-tool.md)
 - [Submit to Awesome Wedding Planning](https://github.com/awesomedirectory/awesome-wedding-planning/issues/new?template=submit-tool.md)
 - [Submit to Awesome Mini Racks](https://github.com/awesomedirectory/awesome-mini-racks/issues/new)
+- [Submit to Awesome Gift Guides](https://github.com/awesomedirectory/awesome-gift-guides/issues/new)
 
 ### Option 2 — Open a Pull Request
 
@@ -195,7 +202,7 @@ Awesome Directory is an independent project. Each list is a standalone GitHub re
   "@type": "ItemList",
   "name": "Awesome Lists",
   "itemListOrder": "Unordered",
-  "numberOfItems": 13,
+  "numberOfItems": 14,
   "itemListElement": [
     {
       "@type": "ListItem",
@@ -287,6 +294,13 @@ Awesome Directory is an independent project. Each list is a standalone GitHub re
       "url": "https://awesomedirectory.github.io/awesome-startup-jobs/",
       "name": "Awesome Startup Jobs",
       "description": "Job boards, funding trackers, salary data, and research tools for finding and vetting jobs at venture-backed startups."
+    },
+    {
+      "@type": "ListItem",
+      "position": 14,
+      "url": "https://awesomedirectory.github.io/awesome-gift-guides/",
+      "name": "Awesome Gift Guides",
+      "description": "Gift guides, gift finders, wishlist and registry tools, group gifting, gift cards and experiences, and curated gift shops."
     }
   ]
 }
